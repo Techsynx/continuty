@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+expert-themes.com	TRUE	/newwp/globex/	FALSE	1999999999	woocommerce_items_in_cart	1
+expert-themes.com	TRUE	/newwp/globex/	FALSE	1999999999	wp_woocommerce_session_bf53bd862c79a0decfad7a4bc0e8fff8	t_cdcd08e58674b59422fc43d46b35d5%7C%7C1714929458%7C%7C1714925858%7C%7C80dd2eb663b5775d3a33bbb0db8806bf
+expert-themes.com	TRUE	/newwp/globex/	FALSE	1999999999	woocommerce_cart_hash	2f0b6bb50e32568a747b1464a5f31972
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	gBVRA_KrIuJks_2WMvtjFcF6vI4Y2J2Se2bD.CJSVTk-1714756849-1.0.1.1-IjTARJNQGz3lWgnCO3_8sc3w.kZj_vcbTv7DwaBelikWmcHhJjVvZ_ZpO87zLs_jghMyw1mBwWkTy9HPCvs6.Q
+.vimeo.com	TRUE	/	FALSE	1999999999	_cfuvid	QJQM1S8sGpRoEMgls6K93Ugoes.99YHjqf1Bm0PENi8-1714756849163-0.0.1.1-604800000
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+

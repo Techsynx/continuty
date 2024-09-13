@@ -1,0 +1,315 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 03 May 2024 10:11:18 at https://expert-themes.com/newwp/globex/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://expert-themes.com/newwp/globex/ -O1 "C:\Users\Computer Clinic\Downloads\huzaifa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:17:21	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/globex_service/ui-ux-design-3/
+10:17:21	Warning: 	File has moved from https://expert-themes.com/newwp/globex/globex_service/ui-ux-design-3/ to https://expert-themes.com/newwp/globex/globex_service/platform-integration/
+10:18:10	Warning: 	Found for https://expert-themes.com/newwp/globex/product-checkout/
+10:18:10	Warning: 	File has moved from https://expert-themes.com/newwp/globex/product-checkout/ to https://expert-themes.com/newwp/globex/product-cart/
+10:18:52	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/?p=123456abc (from https://expert-themes.com/newwp/globex/)
+10:21:01	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/images/icons/credit-cards/visa.png (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/woocommerce.css?ver=6.2.5)
+10:21:01	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/images/icons/credit-cards/mastercard.png (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/woocommerce.css?ver=6.2.5)
+10:21:01	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/images/icons/credit-cards/laser.png (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/woocommerce.css?ver=6.2.5)
+10:21:01	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/images/icons/credit-cards/diners.png (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/woocommerce.css?ver=6.2.5)
+10:21:01	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/images/icons/credit-cards/maestro.png (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/woocommerce.css?ver=6.2.5)
+10:21:01	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/images/icons/credit-cards/jcb.png (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/woocommerce.css?ver=6.2.5)
+10:21:01	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/images/icons/credit-cards/amex.png (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/woocommerce.css?ver=6.2.5)
+10:21:01	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/images/icons/credit-cards/discover.png (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/woocommerce.css?ver=6.2.5)
+10:21:02	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/owl.video.play.png (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/owl.css?ver=6.2.5)
+10:21:02	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/images/ui-icons_777620_256x240.png (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/jquery-ui.css?ver=6.2.5)
+10:21:02	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/images/ui-icons_cc0000_256x240.png (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/jquery-ui.css?ver=6.2.5)
+10:21:02	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/images/ui-icons_777777_256x240.png (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/jquery-ui.css?ver=6.2.5)
+10:21:02	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/mCSB_buttons.html (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/css/jquery.mCustomScrollbar.min.css?ver=6.2.5)
+10:21:02	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=9
+10:21:02	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=9 to https://expert-themes.com/newwp/globex/home-page-02/
+10:21:02	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-02/javascript(): (from https://expert-themes.com/newwp/globex/home-page-02/)
+10:21:28	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=12
+10:21:28	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=12 to https://expert-themes.com/newwp/globex/home-page-03/
+10:21:28	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-03/contact.html (from https://expert-themes.com/newwp/globex/home-page-03/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-03/css/color-themes/default-theme.css (from https://expert-themes.com/newwp/globex/home-page-03/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-03/css/color-themes/green-theme.css (from https://expert-themes.com/newwp/globex/home-page-03/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-03/css/color-themes/blue-theme.css (from https://expert-themes.com/newwp/globex/home-page-03/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-03/css/color-themes/orange-theme.css (from https://expert-themes.com/newwp/globex/home-page-03/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-03/css/color-themes/purple-theme.css (from https://expert-themes.com/newwp/globex/home-page-03/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-03/css/color-themes/teal-theme.css (from https://expert-themes.com/newwp/globex/home-page-03/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-03/css/color-themes/brown-theme.css (from https://expert-themes.com/newwp/globex/home-page-03/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-03/css/color-themes/yellow-color.css (from https://expert-themes.com/newwp/globex/home-page-03/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-03/css/color-themes/olive-theme.css (from https://expert-themes.com/newwp/globex/home-page-03/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-03/css/color-themes/lightblue-color.css (from https://expert-themes.com/newwp/globex/home-page-03/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-03/css/color-themes/pink-theme.css (from https://expert-themes.com/newwp/globex/home-page-03/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-03/css/color-themes/hotpink-color.css (from https://expert-themes.com/newwp/globex/home-page-03/)
+10:22:20	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=895
+10:22:20	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=895 to https://expert-themes.com/newwp/globex/one-page-home/
+10:22:20	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=922
+10:22:20	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=922 to https://expert-themes.com/newwp/globex/rtl-home-page/
+10:22:20	Error: 	"Error when decompressing" (-1) at link https://expert-themes.com/newwp/globex/globex_service/قاعدة-البيانات/ (from https://expert-themes.com/newwp/globex/rtl-home-page/)
+10:22:20	Error: 	"Error when decompressing" (-1) at link https://expert-themes.com/newwp/globex/globex_service/تطوير/ (from https://expert-themes.com/newwp/globex/rtl-home-page/)
+10:22:20	Error: 	"Error when decompressing" (-1) at link https://expert-themes.com/newwp/globex/globex_service/نظام-الأمن/ (from https://expert-themes.com/newwp/globex/rtl-home-page/)
+10:22:20	Error: 	"Error when decompressing" (-1) at link https://expert-themes.com/newwp/globex/globex_service/حلول-تكنولوجيا-المعلومات/ (from https://expert-themes.com/newwp/globex/rtl-home-page/)
+10:22:20	Error: 	"Error when decompressing" (-1) at link https://expert-themes.com/newwp/globex/globex_team/جينيفر-ليام/ (from https://expert-themes.com/newwp/globex/rtl-home-page/)
+10:22:20	Error: 	"Error when decompressing" (-1) at link https://expert-themes.com/newwp/globex/globex_team/روبرت-ليام/ (from https://expert-themes.com/newwp/globex/rtl-home-page/)
+10:22:20	Error: 	"Error when decompressing" (-1) at link https://expert-themes.com/newwp/globex/globex_team/جاسيكا-إيثان/ (from https://expert-themes.com/newwp/globex/rtl-home-page/)
+10:22:20	Error: 	"Error when decompressing" (-1) at link https://expert-themes.com/newwp/globex/globex_team/آدم-مرالا/ (from https://expert-themes.com/newwp/globex/rtl-home-page/)
+10:22:20	Error: 	"Error when decompressing" (-1) at link https://expert-themes.com/newwp/globex/2020/08/المؤتمر-الرقمي-لأحداث-تكنولوجيا-المع/ (from https://expert-themes.com/newwp/globex/rtl-home-page/)
+10:22:20	Error: 	"Error when decompressing" (-1) at link https://expert-themes.com/newwp/globex/2020/08/يجب-أن-تجرب-20-سرًا-للتحول-الرقمي/ (from https://expert-themes.com/newwp/globex/rtl-home-page/)
+10:22:20	Error: 	"Error when decompressing" (-1) at link https://expert-themes.com/newwp/globex/2020/08/تحديد-أفضل-تقنية-لحلول-تكنولوجيا-المع/ (from https://expert-themes.com/newwp/globex/rtl-home-page/)
+10:22:20	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=17
+10:22:20	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=17 to https://expert-themes.com/newwp/globex/home-page-04/
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-04/css/color-themes/default-theme.css (from https://expert-themes.com/newwp/globex/home-page-04/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-04/css/color-themes/green-theme.css (from https://expert-themes.com/newwp/globex/home-page-04/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-04/css/color-themes/blue-theme.css (from https://expert-themes.com/newwp/globex/home-page-04/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-04/css/color-themes/orange-theme.css (from https://expert-themes.com/newwp/globex/home-page-04/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-04/css/color-themes/purple-theme.css (from https://expert-themes.com/newwp/globex/home-page-04/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-04/css/color-themes/teal-theme.css (from https://expert-themes.com/newwp/globex/home-page-04/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-04/css/color-themes/brown-theme.css (from https://expert-themes.com/newwp/globex/home-page-04/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-04/css/color-themes/yellow-color.css (from https://expert-themes.com/newwp/globex/home-page-04/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-04/css/color-themes/olive-theme.css (from https://expert-themes.com/newwp/globex/home-page-04/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-04/css/color-themes/lightblue-color.css (from https://expert-themes.com/newwp/globex/home-page-04/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-04/css/color-themes/pink-theme.css (from https://expert-themes.com/newwp/globex/home-page-04/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-04/css/color-themes/hotpink-color.css (from https://expert-themes.com/newwp/globex/home-page-04/)
+10:22:20	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=19
+10:22:20	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=19 to https://expert-themes.com/newwp/globex/home-page-05/
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-05/javascript(): (from https://expert-themes.com/newwp/globex/home-page-05/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-05/css/color-themes/default-theme.css (from https://expert-themes.com/newwp/globex/home-page-05/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-05/css/color-themes/green-theme.css (from https://expert-themes.com/newwp/globex/home-page-05/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-05/css/color-themes/blue-theme.css (from https://expert-themes.com/newwp/globex/home-page-05/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-05/css/color-themes/orange-theme.css (from https://expert-themes.com/newwp/globex/home-page-05/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-05/css/color-themes/purple-theme.css (from https://expert-themes.com/newwp/globex/home-page-05/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-05/css/color-themes/teal-theme.css (from https://expert-themes.com/newwp/globex/home-page-05/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-05/css/color-themes/brown-theme.css (from https://expert-themes.com/newwp/globex/home-page-05/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-05/css/color-themes/yellow-color.css (from https://expert-themes.com/newwp/globex/home-page-05/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-05/css/color-themes/olive-theme.css (from https://expert-themes.com/newwp/globex/home-page-05/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-05/css/color-themes/lightblue-color.css (from https://expert-themes.com/newwp/globex/home-page-05/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-05/css/color-themes/pink-theme.css (from https://expert-themes.com/newwp/globex/home-page-05/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-05/css/color-themes/hotpink-color.css (from https://expert-themes.com/newwp/globex/home-page-05/)
+10:22:20	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=21
+10:22:20	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=21 to https://expert-themes.com/newwp/globex/home-page-06/
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-06/css/color-themes/default-theme.css (from https://expert-themes.com/newwp/globex/home-page-06/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-06/css/color-themes/green-theme.css (from https://expert-themes.com/newwp/globex/home-page-06/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-06/css/color-themes/blue-theme.css (from https://expert-themes.com/newwp/globex/home-page-06/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-06/css/color-themes/orange-theme.css (from https://expert-themes.com/newwp/globex/home-page-06/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-06/css/color-themes/purple-theme.css (from https://expert-themes.com/newwp/globex/home-page-06/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-06/css/color-themes/teal-theme.css (from https://expert-themes.com/newwp/globex/home-page-06/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-06/css/color-themes/brown-theme.css (from https://expert-themes.com/newwp/globex/home-page-06/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-06/css/color-themes/yellow-color.css (from https://expert-themes.com/newwp/globex/home-page-06/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-06/css/color-themes/olive-theme.css (from https://expert-themes.com/newwp/globex/home-page-06/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-06/css/color-themes/lightblue-color.css (from https://expert-themes.com/newwp/globex/home-page-06/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-06/css/color-themes/pink-theme.css (from https://expert-themes.com/newwp/globex/home-page-06/)
+10:22:20	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/home-page-06/css/color-themes/hotpink-color.css (from https://expert-themes.com/newwp/globex/home-page-06/)
+10:22:20	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=290
+10:22:20	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=290 to https://expert-themes.com/newwp/globex/about-us/
+10:22:20	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=301
+10:22:20	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=301 to https://expert-themes.com/newwp/globex/faqs/
+10:22:20	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=303
+10:22:20	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=303 to https://expert-themes.com/newwp/globex/price-plan/
+10:22:21	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=305
+10:22:21	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=305 to https://expert-themes.com/newwp/globex/our-team/
+10:22:35	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=349
+10:22:35	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=349 to https://expert-themes.com/newwp/globex/globex_team/jassica-ethan-2/
+10:22:35	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=308
+10:22:35	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=308 to https://expert-themes.com/newwp/globex/testimonial/
+10:22:35	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=310
+10:22:35	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=310 to https://expert-themes.com/newwp/globex/coming-soon/
+10:22:35	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=355
+10:22:35	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=355 to https://expert-themes.com/newwp/globex/services/
+10:22:35	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=364
+10:22:35	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=364 to https://expert-themes.com/newwp/globex/our-projects/
+10:23:01	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=378
+10:23:01	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=378 to https://expert-themes.com/newwp/globex/globex_project/social-media-app-16/
+10:24:55	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=15
+10:24:55	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=15 to https://expert-themes.com/newwp/globex/product/hoodie-with-zipper/
+10:25:10	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=460
+10:25:10	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=460 to https://expert-themes.com/newwp/globex/product-cart/
+10:25:23	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=462
+10:25:23	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=462 to https://expert-themes.com/newwp/globex/product-account/
+10:25:27	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=382
+10:25:27	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=382 to https://expert-themes.com/newwp/globex/blog-grid-view/
+10:26:18	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=431
+10:26:18	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=431 to https://expert-themes.com/newwp/globex/2020/08/you-must-try-20-secret-of-digital-transform-2/
+10:26:18	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=405
+10:26:18	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=405 to https://expert-themes.com/newwp/globex/contact-us/
+10:26:18	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=77
+10:26:18	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=77 to https://expert-themes.com/newwp/globex/globex_service/it-soluations/
+10:26:42	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=79
+10:26:42	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=79 to https://expert-themes.com/newwp/globex/globex_service/security-system/
+10:26:42	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=80
+10:26:42	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=80 to https://expert-themes.com/newwp/globex/globex_service/web-development/
+10:26:42	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=81
+10:26:42	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=81 to https://expert-themes.com/newwp/globex/globex_service/database-security/
+10:26:42	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=100
+10:26:42	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=100 to https://expert-themes.com/newwp/globex/globex_project/social-media-app/
+10:26:42	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=107
+10:26:42	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=107 to https://expert-themes.com/newwp/globex/globex_project/social-media-app-2/
+10:26:42	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=108
+10:26:42	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=108 to https://expert-themes.com/newwp/globex/globex_project/social-media-app-3/
+10:26:42	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=109
+10:26:42	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=109 to https://expert-themes.com/newwp/globex/globex_project/social-media-app-4/
+10:26:42	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=111
+10:26:42	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=111 to https://expert-themes.com/newwp/globex/globex_project/social-media-app-5/
+10:26:42	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=138
+10:26:42	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=138 to https://expert-themes.com/newwp/globex/globex_team/jennifer-garcia/
+10:26:42	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=143
+10:26:42	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=143 to https://expert-themes.com/newwp/globex/globex_team/robert-liam/
+10:26:42	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=145
+10:26:42	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=145 to https://expert-themes.com/newwp/globex/globex_team/jassica-ethan/
+10:26:42	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=146
+10:26:42	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=146 to https://expert-themes.com/newwp/globex/globex_team/adaim-mrala/
+10:26:42	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=150
+10:26:42	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=150 to https://expert-themes.com/newwp/globex/2020/08/define-world-best-it-solution-technology/
+10:26:42	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=157
+10:26:42	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=157 to https://expert-themes.com/newwp/globex/2020/08/you-must-try-20-secret-of-digital-transform/
+10:26:42	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=160
+10:26:42	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=160 to https://expert-themes.com/newwp/globex/2020/08/digital-conference-of-it-tech-events-in-2020/
+10:26:42	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=436
+10:26:42	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=436 to https://expert-themes.com/newwp/globex/project-details/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=433
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=433 to https://expert-themes.com/newwp/globex/2020/08/define-world-best-it-solution-technology-6/
+10:26:43	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/dummy.png (from https://expert-themes.com/newwp/globex/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.14)
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/origin=https://
+10:26:43	Warning: 	Redirected link is identical because of 'URL Hack' option: https://expert-themes.com/newwp/globex/origin=https:// and https://expert-themes.com/newwp/globex/origin=https:/
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/origin=https:// to https://expert-themes.com/newwp/globex/origin=https:/
+10:26:43	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/popper.js (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/js/bootstrap.min.js?ver=6.2.5)
+10:26:43	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.12/jquery.mousewheel.min.js (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/js/jquery.mCustomScrollbar.concat.min.js?ver=6.2.5)
+10:26:43	Warning: 	Retry after error 500 (Internal Server Error) at link https://expert-themes.com/newwp/globex/wp-content/themes/globex/ (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/js/themepanel.js?ver=6.2.5)
+10:26:43	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/-negative.svg (from https://expert-themes.com/newwp/globex/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.15.0)
+10:26:43	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/OPR/ (from https://expert-themes.com/newwp/globex/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.15.0)
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=179
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=179 to https://expert-themes.com/newwp/globex/globex_service/end-to-end-solutions-and-services-guaranteed/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=181
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=181 to https://expert-themes.com/newwp/globex/globex_service/ahead-of-the-curve-we-future-proof-your-it/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=183
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=183 to https://expert-themes.com/newwp/globex/globex_service/experience-certainty-every-project-executed-successful/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=199
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=199 to https://expert-themes.com/newwp/globex/2020/08/define-world-best-it-solution-technology-2/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=202
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=202 to https://expert-themes.com/newwp/globex/2020/08/define-world-best-it-solution-technology-3/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=204
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=204 to https://expert-themes.com/newwp/globex/2020/08/define-world-best-it-solution-technology-4/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=224
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=224 to https://expert-themes.com/newwp/globex/globex_service/product-design/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=231
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=231 to https://expert-themes.com/newwp/globex/globex_service/analytic-solutions/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=233
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=233 to https://expert-themes.com/newwp/globex/globex_service/ui-ux-design-2/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=236
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=236 to https://expert-themes.com/newwp/globex/globex_service/product-engineering/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=237
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=237 to https://expert-themes.com/newwp/globex/globex_service/innovative-interfaces/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=238
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=238 to https://expert-themes.com/newwp/globex/globex_service/platform-integration/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=242
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=242 to https://expert-themes.com/newwp/globex/globex_project/social-media-app-6/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=251
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=251 to https://expert-themes.com/newwp/globex/globex_project/social-media-app-7/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=252
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=252 to https://expert-themes.com/newwp/globex/globex_project/ecommerce-website/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=254
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=254 to https://expert-themes.com/newwp/globex/globex_project/develop-your-it-bussiness/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=255
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=255 to https://expert-themes.com/newwp/globex/globex_project/manage-your-it-solution/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=258
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=258 to https://expert-themes.com/newwp/globex/globex_project/social-media-app-8/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=261
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=261 to https://expert-themes.com/newwp/globex/globex_project/social-media-app-9/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=348
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=348 to https://expert-themes.com/newwp/globex/globex_team/adaim-mrala-2/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=350
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=350 to https://expert-themes.com/newwp/globex/globex_team/robert-liam-2/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=351
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=351 to https://expert-themes.com/newwp/globex/globex_team/jennifer-garcia-2/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=370
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=370 to https://expert-themes.com/newwp/globex/globex_project/social-media-app-10/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=371
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=371 to https://expert-themes.com/newwp/globex/globex_project/social-media-app-11/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=372
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=372 to https://expert-themes.com/newwp/globex/globex_project/social-media-app-12/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=373
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=373 to https://expert-themes.com/newwp/globex/globex_project/social-media-app-13/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=374
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=374 to https://expert-themes.com/newwp/globex/globex_project/social-media-app-14/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=376
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=376 to https://expert-themes.com/newwp/globex/globex_project/social-media-app-15/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=379
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=379 to https://expert-themes.com/newwp/globex/globex_project/social-media-app-17/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=489
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=489 to https://expert-themes.com/newwp/globex/product/wordpress-pennant/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=488
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=488 to https://expert-themes.com/newwp/globex/product/logo-collection/
+10:26:43	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=479
+10:26:43	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=479 to https://expert-themes.com/newwp/globex/product/single/
+10:26:44	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=486
+10:26:44	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=486 to https://expert-themes.com/newwp/globex/product/t-shirt-with-logo/
+10:27:13	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=487
+10:27:13	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=487 to https://expert-themes.com/newwp/globex/product/beanie-with-logo/
+10:28:02	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=477
+10:28:02	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=477 to https://expert-themes.com/newwp/globex/product/polo/
+10:28:03	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=478
+10:28:03	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=478 to https://expert-themes.com/newwp/globex/product/album/
+10:28:04	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=475
+10:28:04	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=475 to https://expert-themes.com/newwp/globex/product/cap/
+10:28:09	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/our-products/page/1/
+10:28:09	Warning: 	File has moved from https://expert-themes.com/newwp/globex/our-products/page/1/ to https://expert-themes.com/newwp/globex/our-products/
+10:28:16	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=470
+10:28:16	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=470 to https://expert-themes.com/newwp/globex/product/hoodie/
+10:28:18	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=471
+10:28:18	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=471 to https://expert-themes.com/newwp/globex/product/hoodie-with-logo/
+10:28:20	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=428
+10:28:20	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=428 to https://expert-themes.com/newwp/globex/2020/08/digital-conference-of-it-tech-events-in-2020-2/
+10:28:20	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=420
+10:28:20	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=420 to https://expert-themes.com/newwp/globex/2020/08/how-to-make-website-wcag-compliant-2/
+10:28:20	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=398
+10:28:20	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=398 to https://expert-themes.com/newwp/globex/2020/08/define-world-best-it-solution-technology-5/
+10:28:21	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=307
+10:28:21	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=307 to https://expert-themes.com/newwp/globex/2020/08/plan-your-project-with-your-software/
+10:28:21	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=394
+10:28:21	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=394 to https://expert-themes.com/newwp/globex/2020/08/you-have-a-great-business-idea/
+10:28:21	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=396
+10:28:21	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=396 to https://expert-themes.com/newwp/globex/2020/08/how-to-make-website-wcag-compliant/
+10:28:21	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/blog-grid-view/page/1/
+10:28:21	Warning: 	File has moved from https://expert-themes.com/newwp/globex/blog-grid-view/page/1/ to https://expert-themes.com/newwp/globex/blog-grid-view/
+10:28:21	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/blog-classic/page/1/
+10:28:21	Warning: 	File has moved from https://expert-themes.com/newwp/globex/blog-classic/page/1/ to https://expert-themes.com/newwp/globex/blog-classic/
+10:28:33	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=95
+10:28:33	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=95 to https://expert-themes.com/newwp/globex/globex_service/dedicated-team/
+10:28:33	Error: 	"Not Found" (404) at link https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/images/background/pattern-21.png (from https://expert-themes.com/newwp/globex/globex_service/dedicated-team/)
+10:28:33	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=94
+10:28:33	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=94 to https://expert-themes.com/newwp/globex/globex_service/it-counsultancy/
+10:28:33	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=90
+10:28:33	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=90 to https://expert-themes.com/newwp/globex/globex_service/qa-testing/
+10:28:33	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=88
+10:28:33	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=88 to https://expert-themes.com/newwp/globex/globex_service/ui-ux-design/
+10:28:33	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=87
+10:28:33	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=87 to https://expert-themes.com/newwp/globex/globex_service/mobile-development/
+10:28:33	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=86
+10:28:33	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=86 to https://expert-themes.com/newwp/globex/globex_service/web-develpment/
+10:28:33	Warning: 	Retry after error 500 (Internal Server Error) at link https://expert-themes.com/newwp/globex/wp-content/themes/globex/ (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/js/themepanel.js?ver=6.2.5)
+10:28:33	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=476
+10:28:33	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=476 to https://expert-themes.com/newwp/globex/product/long-sleeve-tee/
+10:28:35	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=469
+10:28:35	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=469 to https://expert-themes.com/newwp/globex/product/v-neck-t-shirt/
+10:28:37	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=472
+10:28:37	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=472 to https://expert-themes.com/newwp/globex/product/t-shirt/
+10:28:38	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=13
+10:28:38	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=13 to https://expert-themes.com/newwp/globex/product/sunglasses/
+10:28:40	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=473
+10:28:40	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=473 to https://expert-themes.com/newwp/globex/product/beanie/
+10:28:42	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/?p=474
+10:28:42	Warning: 	File has moved from https://expert-themes.com/newwp/globex/?p=474 to https://expert-themes.com/newwp/globex/product/belt/
+10:28:44	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/category/latest-news/page/1/
+10:28:44	Warning: 	File has moved from https://expert-themes.com/newwp/globex/category/latest-news/page/1/ to https://expert-themes.com/newwp/globex/category/latest-news/
+10:28:44	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/tag/business/page/1/
+10:28:44	Warning: 	File has moved from https://expert-themes.com/newwp/globex/tag/business/page/1/ to https://expert-themes.com/newwp/globex/tag/business/
+10:28:44	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/tag/cybe/page/1/
+10:28:44	Warning: 	File has moved from https://expert-themes.com/newwp/globex/tag/cybe/page/1/ to https://expert-themes.com/newwp/globex/tag/cybe/
+10:28:44	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/tag/marketing/page/1/
+10:28:44	Warning: 	File has moved from https://expert-themes.com/newwp/globex/tag/marketing/page/1/ to https://expert-themes.com/newwp/globex/tag/marketing/
+10:28:44	Warning: 	Moved Permanently for https://expert-themes.com/newwp/globex/2020/08/page/1/
+10:28:44	Warning: 	File has moved from https://expert-themes.com/newwp/globex/2020/08/page/1/ to https://expert-themes.com/newwp/globex/2020/08/
+10:28:44	Error: 	"Internal Server Error" (500) after 2 retries at link https://expert-themes.com/newwp/globex/wp-content/themes/globex/ (from https://expert-themes.com/newwp/globex/wp-content/themes/globex/assets/js/themepanel.js?ver=6.2.5)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 minutes 26 seconds : 1026 links scanned, 831 files written (39544034 bytes overall) [16676943 bytes received at 15943 bytes/sec], 35372443 bytes transferred using HTTP compression in 748 files, ratio 19%, 5.1 requests per connection
+(83 errors, 221 warnings, 0 messages)
