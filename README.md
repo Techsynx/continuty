@@ -1,11 +1,5 @@
 
 
-```
-# continuty
-its a real estate website having multifunctional; theme
-```
-
-Here’s a more attractive and detailed version of the README file for the project, including relevant emojis and SVGs:
 
 ---
 
